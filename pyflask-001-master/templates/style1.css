@@ -1,0 +1,36 @@
+
+
+.navbar{
+  background-color:  rgba(230, 230, 0,0.9)!important;
+}
+.navbar li a {
+  color:white !important;
+}
+.navbar li a:hover{
+  color:black!important;
+}
+.navbar img{
+	margin:0;
+}
+
+.carousel-inner img{
+  width:100%;
+}
+
+footer {
+  background-color: black;
+  margin-top: 0.2em;
+  padding: 1em 2em;
+}
+footer p{
+  padding-left: 30em;
+  color:white;
+}
+footer a:hover{
+	text-decoration:none;
+	color:white;
+}
+.mail{
+  padding-left: 5em;
+  color:white;
+}
