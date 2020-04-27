@@ -1,0 +1,138 @@
+﻿.navbar{
+  background-color:  rgba(230, 230, 0,0.9)!important;
+}
+.navbar li a {
+  color:white !important;
+}
+.navbar li a:hover{
+  color:black!important;
+}
+.navbar img{
+	margin:0;
+}
+
+body{
+ background-image:url("https://previews.123rf.com/images/goodmoments/goodmoments1704/goodmoments170400285/76827218-top-view-on-colorful-toy-bricks-on-a-white-wooden-background-toys-in-the-table.jpg");
+}
+p{
+	text-align:center;
+}
+#rcorners1 {
+  border :10px solid green;
+  border-radius: 25px;
+  background: White;
+  margin-left:600px;
+  margin-top:-250px;
+  padding: 20px; 
+  width: 300px;
+ 
+  line-height:10px;
+  position:relative;
+  top:50px;
+}
+
+#rcorners2 {
+  border :10px solid green;
+  border-radius: 25px;
+  background: White;
+  margin-left:600px;
+  padding: 20px; 
+  width: 300px;
+ 
+  line-height:10px;
+  position:relative;
+  top:40px;
+}
+
+#rcorners3 {
+   border :10px solid green;
+  border-radius: 25px;
+  background: White;
+  margin-left:600px;
+  padding: 20px; 
+  width: 300px;
+ 
+  line-height:10px;
+  position:relative;
+  top:30px;
+}
+table{
+	margin-left:20px;
+	
+}
+table,th,  td{
+            border:3px solid white;
+			color:white;
+			background:green;
+        }
+		th{
+			
+			text-align:center;
+			background:black;
+		}
+        td{
+            padding:20px 90px;
+        }
+		img{
+		
+			margin-left:300px;
+			
+		}
+		h1{
+		
+			margin-left:410px;
+			font-size:50px;
+			
+			bottom:25px;
+			
+		}
+		h2{
+			margin-left:480px;
+			margin-top:70px;
+		
+			font-size:50px;
+			
+		}
+		button{
+			margin-top:10px;
+			margin-left:20px;  
+			border:2px solid red;
+			border-radius:25px;
+			background:yellow;
+			color:white;
+			font-size:20px;
+			
+		}
+		button a{
+			color:black;
+		}
+		button a:hover{
+			text-decoration:none;
+			color:red;
+			
+		}
+		
+footer {
+  background-color: black;
+  margin-top: 0.2em;
+  padding: 1em 2em;
+}
+footer p{
+  padding-left: 15em;
+  
+  color:white;
+}
+footer a{
+text-decoration:none;
+color:white;
+}
+footer a:hover{
+	text-decoration:none;
+	color:white;
+}
+footer img{
+	margin-left:-75px;
+	margin-bottom:
+}
+
+		
